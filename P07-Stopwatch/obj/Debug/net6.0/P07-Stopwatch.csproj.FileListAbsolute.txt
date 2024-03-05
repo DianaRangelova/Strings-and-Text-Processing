@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\bin\Debug\net6.0\P07-Stopwatch.exe
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\bin\Debug\net6.0\P07-Stopwatch.deps.json
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\bin\Debug\net6.0\P07-Stopwatch.runtimeconfig.json
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\bin\Debug\net6.0\P07-Stopwatch.dll
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\bin\Debug\net6.0\P07-Stopwatch.pdb
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\obj\Debug\net6.0\P07-Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\obj\Debug\net6.0\P07-Stopwatch.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\obj\Debug\net6.0\P07-Stopwatch.AssemblyInfo.cs
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\obj\Debug\net6.0\P07-Stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\obj\Debug\net6.0\P07-Stopwatch.dll
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\obj\Debug\net6.0\refint\P07-Stopwatch.dll
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\obj\Debug\net6.0\P07-Stopwatch.pdb
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\obj\Debug\net6.0\P07-Stopwatch.genruntimeconfig.cache
+C:\Users\PC\source\repos\Strings-and-Text-Processing\P07-Stopwatch\obj\Debug\net6.0\ref\P07-Stopwatch.dll
